@@ -222,7 +222,7 @@ CHIPTOP-Physical-Design/
 
 ---
 
-## 🙋 About This Build
+##  About This Build
 
 Completed during a **1-month Physical Design internship at VLSIMINDS** (June–July 2026), working hands-on in Cadence Innovus across the full back-end flow — from macro/port placement through power planning, standard-cell placement, clock tree synthesis, routing, and timing signoff.
 
